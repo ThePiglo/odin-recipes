@@ -1,0 +1,16 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+.titre {
+    font-size: 40px;
+    background-color: azure;
+}
+
+a {
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: bold;
+    flex: auto;
+}
